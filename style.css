@@ -1,0 +1,130 @@
+.page-intro {
+	border: solid;
+	border-color: white;
+	background-color: gray ;
+	
+}
+
+.first-box {
+	border: solid;
+	border-color: black;
+	background-color: #0d1444;
+	
+}
+
+.CoderSV3 {
+	text-transform: center;
+	color: yellow;
+	border: dotted;
+	border-color: black;
+	padding-left: 20px;
+	background-color: #0d1444;
+}
+
+.welcome-message {
+	font-family: Calibri;
+	border: solid; border-color: black;
+	background-color: blue;
+	color: white;
+	padding-left: 20px;
+}
+
+.description {
+	font-family: Calibri;
+	padding-left: 20px;
+}
+
+.tabs  {
+	border: solid;
+	border-color: blue;
+	background-color: blue;
+	color: white;
+	width: 30px;
+	border-top: 20px;
+	margin-top: 10px;
+	font-size: 17px ;
+	font-family: Arial;
+	padding: 8px;
+	
+}
+
+.top-box-trenchcoat {
+	border: solid;
+	border-color: black;
+	background-color: #0d1444;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.zee-galleria {
+	padding-left: 20px;
+}
+
+#backstory-sam {
+	padding-left: 30px;
+	padding-right: 30px;
+	text-align: left;
+}
+
+#sam-heading {
+	padding-left: 30px;
+	padding-right: 30px;
+	color: #ffbc02;
+}
+
+.photo-placement {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.in-between-pics {
+	margin: 20px 35px;
+}
+
+.quick-intro h1{
+	font-family: Arial;
+	text-indent: 20px;
+	color: #f5b500;
+	border: solid;
+	padding: 3.5px;
+	background-color: #0d1444;
+	
+}
+.quick-intro p {
+	font-family: Arial;
+	margin: 20px;
+	line-height: 1.3;
+}
+	
+.quick-intro {
+	border: solid;
+	border-color: #0d1444;
+	margin-top: 25px;
+	background-color: #008cff;
+	color: white;
+}
+
+#QI-Headshot {
+	padding: 0px 10px 20px 20px;
+}
+
+.gallery-headings {
+	text-indent: 10px;
+	padding: 10px;
+	font-family: Arial;
+	font-size: 15px;
+}
+
+.gallery-photos {
+	padding: 20px;
+
+}
+
+.quick-intro table {
+	border: solid;
+	color: black;
+}
+
+.gallery-photos td {
+	position: relative;
+} 
