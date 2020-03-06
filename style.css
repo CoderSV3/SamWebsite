@@ -14,7 +14,8 @@
 
 .CoderSV3 {
 	text-transform: center;
-	color: yellow;
+	font-family: Arial;
+	color: #f5b500;
 	border: dotted;
 	border-color: black;
 	padding-left: 20px;
@@ -128,3 +129,15 @@
 .gallery-photos td {
 	position: relative;
 } 
+
+a:link {
+	color: white;
+}
+
+a:hover {
+	color: #fceab0; 
+}
+
+a:visited {
+	color: #f5b500;
+}
